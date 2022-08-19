@@ -1,2 +1,2 @@
-# Amat-r-Site-Denemesi
+# AmatorSite-Denemesi
 HTML&amp;CSS ile yaptığım çalışma
